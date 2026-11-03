@@ -1,4 +1,4 @@
-# Kopi dan Nyemil
+# Kopi dan Nyemil <img src="docs/screenshots/logo.jpg" width="220">
 
 Aplikasi mobile Android untuk memesan kopi dan camilan, dibuat sebagai tugas **Ujian Tengah Semester Pemrograman Mobile** ("Membuat Tampilan Sederhana Aplikasi Kopi dan Nyemil").
 
