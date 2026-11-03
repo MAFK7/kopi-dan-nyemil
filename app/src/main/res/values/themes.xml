@@ -1,0 +1,71 @@
+<resources>
+    <style name="Theme.KopiDanNyemil" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/cherry</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="android:windowBackground">@color/paper</item>
+        <item name="android:statusBarColor">@color/paper</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:fontFamily">@font/poppins</item>
+        <item name="fontFamily">@font/poppins</item>
+        <item name="android:windowAnimationStyle">@style/AppAnim</item>
+    </style>
+
+    <style name="AppAnim" parent="@android:style/Animation.Activity">
+        <item name="android:activityOpenEnterAnimation">@anim/screen_enter</item>
+        <item name="android:activityOpenExitAnimation">@anim/screen_hold</item>
+        <item name="android:activityCloseEnterAnimation">@anim/screen_hold</item>
+        <item name="android:activityCloseExitAnimation">@anim/screen_exit</item>
+    </style>
+
+    <style name="AppButton">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">56dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:background">@drawable/bg_btn_primary</item>
+        <item name="android:clickable">true</item>
+        <item name="android:focusable">true</item>
+    </style>
+
+    <style name="AppButton.Secondary">
+        <item name="android:textColor">@color/cherry</item>
+        <item name="android:background">@drawable/bg_btn_outline</item>
+    </style>
+
+    <style name="AppButton.Elegant">
+        <item name="android:background">@drawable/bg_btn_elegant</item>
+        <item name="android:textColor">@color/night</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:letterSpacing">0.12</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+
+    <style name="AppButton.Gold">
+        <item name="android:textColor">@color/ink</item>
+        <item name="android:background">@drawable/bg_button_gold</item>
+    </style>
+
+    <style name="AppInput">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">54dp</item>
+        <item name="android:background">@drawable/bg_input</item>
+        <item name="android:paddingStart">16dp</item>
+        <item name="android:paddingEnd">16dp</item>
+        <item name="android:textColor">@color/ink</item>
+        <item name="android:textColorHint">#A8998C</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:maxLines">1</item>
+    </style>
+
+    <style name="AppLabel">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/ink</item>
+        <item name="android:textSize">13sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_marginTop">16dp</item>
+        <item name="android:layout_marginBottom">6dp</item>
+    </style>
+</resources>

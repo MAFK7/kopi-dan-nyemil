@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="100dp"
+    android:height="100dp"
+    android:viewportWidth="100"
+    android:viewportHeight="100">
+
+    <path
+        android:fillColor="#1E1414"
+        android:fillType="evenOdd"
+        android:pathData="M0,0h28v28h-28z M4,4h20v20h-20z M72,0h28v28h-28z M76,4h20v20h-20z M0,72h28v28h-28z M4,76h20v20h-20z"/>
+    <path
+        android:fillColor="#1E1414"
+        android:pathData="M8,8h12v12h-12z M80,8h12v12h-12z M8,80h12v12h-12z"/>
+    <path
+        android:fillColor="#1E1414"
+        android:pathData="M36,0h8v4h-8z M52,0h4v4h-4z M60,0h8v4h-8z
+M32,4h4v4h-4z M44,4h8v4h-8z M64,4h4v4h-4z
+M36,8h4v4h-4z M48,8h4v4h-4z M56,8h12v4h-12z
+M32,12h8v4h-8z M48,12h4v4h-4z M60,12h8v4h-8z
+M36,16h4v4h-4z M44,16h8v4h-8z M64,16h4v4h-4z
+M32,20h4v4h-4z M44,20h12v4h-12z M64,20h4v4h-4z
+M40,24h4v4h-4z M52,24h8v4h-8z M68,24h4v4h-4z
+M36,28h4v4h-4z M48,28h4v4h-4z M60,28h8v4h-8z
+M0,32h4v4h-4z M8,32h4v4h-4z M20,32h4v4h-4z M32,32h8v4h-8z M48,32h4v4h-4z M60,32h4v4h-4z M72,32h4v4h-4z M80,32h4v4h-4z M92,32h4v4h-4z
+M4,36h4v4h-4z M12,36h8v4h-8z M24,36h4v4h-4z M40,36h4v4h-4z M52,36h4v4h-4z M64,36h4v4h-4z M76,36h8v4h-8z M88,36h4v4h-4z
+M0,40h8v4h-8z M16,40h4v4h-4z M28,40h4v4h-4z M36,40h4v4h-4z M44,40h4v4h-4z M56,40h4v4h-4z M68,40h4v4h-4z M84,40h4v4h-4z M96,40h4v4h-4z
+M8,44h4v4h-4z M20,44h4v4h-4z M32,44h4v4h-4z M48,44h4v4h-4z M60,44h4v4h-4z M72,44h4v4h-4z M80,44h4v4h-4z M92,44h4v4h-4z
+M4,48h4v4h-4z M12,48h4v4h-4z M40,48h4v4h-4z M52,48h4v4h-4z M64,48h4v4h-4z M76,48h4v4h-4z M88,48h8v4h-8z
+M0,52h4v4h-4z M24,52h4v4h-4z M36,52h4v4h-4z M44,52h4v4h-4z M56,52h4v4h-4z M68,52h4v4h-4z M84,52h4v4h-4z M92,52h4v4h-4z
+M8,56h4v4h-4z M16,56h4v4h-4z M28,56h4v4h-4z M48,56h4v4h-4z M60,56h4v4h-4z M72,56h4v4h-4z M80,56h4v4h-4z M88,56h4v4h-4z
+M4,60h4v4h-4z M20,60h4v4h-4z M32,60h4v4h-4z M40,60h4v4h-4z M52,60h4v4h-4z M64,60h4v4h-4z M76,60h4v4h-4z M96,60h4v4h-4z
+M0,64h4v4h-4z M12,64h4v4h-4z M36,64h4v4h-4z M44,64h4v4h-4z M56,64h4v4h-4z M68,64h4v4h-4z M84,64h4v4h-4z M92,64h4v4h-4z
+M8,68h4v4h-4z M24,68h4v4h-4z M32,68h4v4h-4z M48,68h4v4h-4z M60,68h4v4h-4z M72,68h4v4h-4z M80,68h4v4h-4z M88,68h4v4h-4z
+M32,72h4v4h-4z M40,72h4v4h-4z M52,72h4v4h-4z M64,72h4v4h-4z M76,72h4v4h-4z M92,72h4v4h-4z
+M36,76h4v4h-4z M44,76h4v4h-4z M56,76h4v4h-4z M68,76h4v4h-4z M80,76h4v4h-4z M96,76h4v4h-4z
+M32,80h4v4h-4z M48,80h4v4h-4z M60,80h4v4h-4z M72,80h4v4h-4z M84,80h8v4h-8z
+M40,84h4v4h-4z M52,84h4v4h-4z M64,84h4v4h-4z M76,84h4v4h-4z M92,84h4v4h-4z
+M36,88h4v4h-4z M44,88h4v4h-4z M56,88h4v4h-4z M68,88h4v4h-4z M80,88h4v4h-4z M96,88h4v4h-4z
+M32,92h4v4h-4z M48,92h4v4h-4z M60,92h4v4h-4z M72,92h4v4h-4z M84,92h4v4h-4z M92,92h4v4h-4z
+M40,96h4v4h-4z M52,96h4v4h-4z M64,96h4v4h-4z M76,96h4v4h-4z M88,96h4v4h-4z M96,96h4v4h-4z"/>
+</vector>
