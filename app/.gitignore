@@ -1,1 +1,8 @@
 /build
+/local.properties
+.gradle
+.idea/
+*.apk
+*.aab
+*.jks
+*.keystore

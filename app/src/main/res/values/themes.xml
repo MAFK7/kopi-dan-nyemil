@@ -34,19 +34,6 @@
         <item name="android:background">@drawable/bg_btn_outline</item>
     </style>
 
-    <style name="AppButton.Elegant">
-        <item name="android:background">@drawable/bg_btn_elegant</item>
-        <item name="android:textColor">@color/night</item>
-        <item name="android:textSize">14sp</item>
-        <item name="android:letterSpacing">0.12</item>
-        <item name="android:textAllCaps">true</item>
-    </style>
-
-    <style name="AppButton.Gold">
-        <item name="android:textColor">@color/ink</item>
-        <item name="android:background">@drawable/bg_button_gold</item>
-    </style>
-
     <style name="AppInput">
         <item name="android:layout_width">match_parent</item>
         <item name="android:layout_height">54dp</item>
